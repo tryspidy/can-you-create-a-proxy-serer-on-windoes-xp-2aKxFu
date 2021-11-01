@@ -1,0 +1,1 @@
+#Go to client computer and open IE window. Open "Tools" menu, select "Internet Options" and open the "Internet Options" dialog box. Select "Connections" tab (Figure 5), click "LAN Settings" button and open the "Local Area Network(LAN) Settings" dialog box. Check "Use a proxy server for your LAN", Fill "192.168.
